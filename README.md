@@ -24,7 +24,6 @@
 - cons: Not customizable, not transparent
 
 <br/>
-<br/>
 
 ###  Covidence 
 **Version:** unknown  
@@ -36,7 +35,6 @@
 **Result:**  
 - 3928 unique records, 2456 total duplicates removed
 
-<br/>
 <br/>
 
 ### Endnote X20 
@@ -51,7 +49,6 @@
 
 **High-throughput?** Yes
 
-<br/>
 <br/>
 
 ### Zotero 
@@ -72,7 +69,6 @@ High-throughput? No. Hackable but still time-consuming.
 - Cannot resolve near-duplicates with item type differences. (See [Zotero forum discussion threads](https://forums.zotero.org/discussion/69444/two-simple-improvements-for-duplicate-items-papercut))
 
 <br/>
-<br/>
 
 ### Mendeley desktop
 **Version:** 1.19.8  
@@ -91,7 +87,6 @@ High-throughput? No. Hackable but still time-consuming.
 - According to [the official announcement](https://blog.mendeley.com/category/new-release-2/#:~:text=As%20part%20of%20the%20continued,and%20sync%20their%20Mendeley%20Desktop.), Mendeley desktop has been discontinued and will be gradually replaced by the web-centric version, Mendeley Reference Manager, which does not support reference deduplication yet. 
 
 <br/>
-<br/>
 
 ### revtools
 **Version:** 0.4.1  
@@ -105,7 +100,6 @@ High-throughput? No. Hackable but still time-consuming.
 
 **High-throughput?** To some extent
 
-<br/>
 <br/>
 
 ### synthesisr
